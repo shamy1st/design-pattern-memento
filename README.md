@@ -2,7 +2,7 @@
 
 **Memento** is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback). ([wiki](https://en.wikipedia.org/wiki/Memento_pattern))
 
-![](https://github.com/shamy1st/design-pattern-memento-java/blob/main/memento-solution-uml.png)
+![](https://github.com/shamy1st/design-pattern-memento-java/blob/main/memento-uml.png)
 
 ### The Problem: 
 You have an **Editor** class and you want to implement "**undo mechanism**".
