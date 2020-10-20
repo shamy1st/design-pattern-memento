@@ -4,6 +4,7 @@
 ![](https://github.com/shamy1st/design-pattern-memento-java/blob/main/memento-uml.png)
 ### Problem: 
 You have an **Editor** class and you want to implement "**undo mechanism**".
+
     public class Editor {
         private String content;
 
