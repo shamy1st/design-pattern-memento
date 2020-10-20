@@ -1,6 +1,6 @@
 # Java Implementation of Memento Design Pattern
 
-The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback). ([wiki](https://en.wikipedia.org/wiki/Memento_pattern))
+**Memento** is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback). ([wiki](https://en.wikipedia.org/wiki/Memento_pattern))
 
 ![](https://github.com/shamy1st/design-pattern-memento-java/blob/main/memento-solution-uml.png)
 
