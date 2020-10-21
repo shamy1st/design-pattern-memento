@@ -1,4 +1,4 @@
-# Java Implementation of Memento Design Pattern
+# Memento Design Pattern (Java Implementation)
 
 **Memento** design pattern provides the ability to restore an object to its previous state (undo). ([wiki](https://en.wikipedia.org/wiki/Memento_pattern))
 ![](https://github.com/shamy1st/design-pattern-memento-java/blob/main/memento-uml.png)
