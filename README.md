@@ -1,6 +1,6 @@
 # Memento Design Pattern (Java Implementation)
 
-**Memento** design pattern allows restoring an object to a previous state (undo).
+**Memento** restoring an object to a previous state (undo).
 ![](https://github.com/shamy1st/design-pattern-memento-java/blob/main/memento-uml.png)
 ### Problem: 
 You have an **Editor** class and you want to implement "**undo mechanism**".
