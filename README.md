@@ -1,4 +1,4 @@
-# Memento Design Pattern (Java Implementation)
+# Memento Design Pattern (Java)
 
 **Memento** restoring an object to a previous state (undo).
 ![](https://github.com/shamy1st/design-pattern-memento-java/blob/main/memento-uml.png)
